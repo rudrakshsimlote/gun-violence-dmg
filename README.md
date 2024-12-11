@@ -12,6 +12,16 @@ The following Python libraries were used:
 ### Overview
 The United States is infamous for the high frequency and severity of gun-related violent incidents. While this project cannot solve this problem, it can shed light on possible causes and make predictions that would aid the future prevention of such events. The project analyzes the number of lesgislative laws that protect against firearm violence by state and compares them with the number of shootings in each state. 
 
+### Datasets
+**provisions**
+Contains the encoded laws against firearm violence by state and year and has lawtotal count.
+
+**gun_violence**
+Contains the number of people killed and injured in a gun violence incident by state and year.
+
+**mortality**
+Contains the mortality rate and number of deaths by state and year.
+
 ### Features
 **Data Integration**: Gun violence, Mortality, and Firearm Provision data frames have been merged using state and years as keys to analyze the correlation between the number of the laws impemented in each state to protect against gun violence with the number of incidents and rate of deaths over the years. 
 
