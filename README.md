@@ -14,12 +14,15 @@ The United States is infamous for the high frequency and severity of gun-related
 
 ### Datasets
 **provisions**
+
 Contains the encoded laws against firearm violence by state and year and has lawtotal count.
 
 **gun_violence**
+
 Contains the number of people killed and injured in a gun violence incident by state and year.
 
 **mortality**
+
 Contains the mortality rate and number of deaths by state and year.
 
 ### Features
