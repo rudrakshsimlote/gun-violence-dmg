@@ -40,4 +40,32 @@ Contains the mortality rate and number of deaths by state and year.
 
 **Modeling**: Random Forest Classifier is used to identify high risk locations for an original and regularized model.
 
+*  **Original Model:** Includes key features like lawtotal, RATE, n_killed, and n_injured.
+*  **Regularized Model:** Focuses on reducing overfitting by evaluating feature importance.
+
 **Evaluation**: A Classification Report and ROC-AUC score is used to evaluate model performance.
+
+### Results
+**High-Risk Locations:**
+* Identified states and years with elevated risk based on gun violence trends.
+* Highlighted states with consistently high high_risk_prob values for targeted interventions.
+**Law Effectiveness:**
+* Waiting periods showed a statistically significant impact in reducing high-risk probabilities.
+* Other provisions, such as stricter age requirements, correlated weakly with reduced risks.
+
+### Usage
+Clone this repository:
+* ```git clone https://github.com/rudrakshsimlote/gun-violence-dmg```
+* Ensure all required datasets are in the project directory.
+* Run the Jupyter Notebook files for preprocessing and analysis:
+   * Data_Cleaning.ipynb: Cleans and prepares the datasets.
+   * merging_data.ipynb: Merges the datasets, trains models, and evaluates predictions.
+
+### Future Work
+* **Mass Shootings Focus:** Build a separate model to predict high-severity incidents based on mass shooting-specific data.
+* **Interactive Dashboard:** Create a Streamlit or Dash app to visualize high-risk locations and trends dynamically.
+
+### Contributors
+* **Rudraksh Simlote**
+* **Aarya Shah**
+* **Sandhya Ganesh**
