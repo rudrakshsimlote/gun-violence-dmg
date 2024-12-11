@@ -67,5 +67,5 @@ Clone this repository:
 
 ### Contributors
 * **Rudraksh Simlote**
-* **Aarya Shah**
+* **Aaryaa Shah**
 * **Sandhya Ganesh**
