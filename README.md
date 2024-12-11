@@ -13,7 +13,7 @@ The following Python libraries were used:
 The United States is infamous for the high frequency and severity of gun-related violent incidents. While this project cannot solve this problem, it can shed light on possible causes and make predictions that would aid the future prevention of such events. The project analyzes the number of lesgislative laws that protect against firearm violence by state and compares them with the number of shootings in each state. 
 
 ### Datasets
-**provisions**: Originally from the Department of Justice and found on Kaggle
+**<a href="https://www.kaggle.com/datasets/jboysen/state-firearms">Provisions/</a>**: Originally from the Department of Justice and found on Kaggle
 
 Contains the encoded laws against firearm violence by state and year and has lawtotal count.
 
