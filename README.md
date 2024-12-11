@@ -17,11 +17,11 @@ The United States is infamous for the high frequency and severity of gun-related
 
 Contains the encoded laws against firearm violence by state and year and has lawtotal count.
 
-**<a href="[https://www.kaggle.com/datasets/jboysen/state-firearms](https://www.kaggle.com/datasets/jameslko/gun-violence-data)">Gun Violence Data</a>**: Originally from the Gun Violence Archrive and found on Kaggle
+**<a href="https://www.kaggle.com/datasets/jameslko/gun-violence-data">Gun Violence Data</a>**: Originally from the Gun Violence Archrive and found on Kaggle
 
 Contains the number of people killed and injured in a gun violence incident by state and year.
 
-**<a href="[https://www.kaggle.com/datasets/jboysen/state-firearms](https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm)">Mortality Rate</a>** Found on the CDC website
+**<a href="https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm">Mortality Rate</a>** Found on the CDC website
 
 Contains the mortality rate and number of deaths by state and year.
 
