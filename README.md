@@ -61,6 +61,7 @@ Contains population of each state 1990-2023
 **High-Risk Locations:**
 * Identified states and years with elevated risk based on gun violence trends.
 * Highlighted states with consistently high high_risk_prob values for targeted interventions.
+* 
 **Law Effectiveness:**
 * Waiting periods showed a statistically significant impact in reducing high-risk probabilities.
 * Other provisions, such as stricter age requirements, correlated weakly with reduced risks.
