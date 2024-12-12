@@ -37,10 +37,18 @@ Contains the mortality rate and number of deaths by state and year.
 
 Contains the number of people killed and injured in a mass shooting by state and year.
 
+
+**<a href="https://data.ers.usda.gov/reports.aspx?ID=17827">Population</a>** (Obtained from the USDA)
+
+Contains population of each state 1990-2023
+
+
 ### Features
 **Data Integration**: Gun violence, Mortality, and Firearm Provision data frames have been merged using state and years as keys to analyze the correlation between the number of the laws impemented in each state to protect against gun violence with the number of incidents and rate of deaths over the years. 
 
 **Data Cleaning**: Null values have been removed and the keys have been standardized to allow for easy data integration.
+
+**Database Queries**: Datasets have been examined using SQL for preliminary insights
 
 **Modeling**: Random Forest Classifier is used to identify high risk locations for an original and regularized model.
 
@@ -68,6 +76,7 @@ Clone this repository:
 ### Future Work
 * **Mass Shootings Focus:** Build a separate model to predict high-severity incidents based on mass shooting-specific data.
 * **Interactive Dashboard:** Create a Streamlit or Dash app to visualize high-risk locations and trends dynamically.
+
 
 ### Contributors
 * **Rudraksh Simlote**
