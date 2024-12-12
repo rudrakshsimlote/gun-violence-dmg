@@ -29,9 +29,13 @@ Contains the encoded laws against firearm violence by state and year and has law
 
 Contains the number of people killed and injured in a gun violence incident by state and year.
 
-**<a href="https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm">Mortality Rate</a>** (Found on the CDC website)
+**<a href="https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm">Mortality Rate</a>** (Obtained from the CDC website)
 
 Contains the mortality rate and number of deaths by state and year.
+
+**<a href="https://www.theviolenceproject.org/mass-shooter-database/">Mass Shootings</a>** (Obtained from the Violence Prevention Project)
+
+Contains the number of people killed and injured in a mass shooting by state and year.
 
 ### Features
 **Data Integration**: Gun violence, Mortality, and Firearm Provision data frames have been merged using state and years as keys to analyze the correlation between the number of the laws impemented in each state to protect against gun violence with the number of incidents and rate of deaths over the years. 
